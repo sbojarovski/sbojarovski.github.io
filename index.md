@@ -1,4 +1,1 @@
-# Hello, World!
-
-bla bla
-
+Welcome.
